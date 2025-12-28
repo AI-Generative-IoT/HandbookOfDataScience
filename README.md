@@ -221,6 +221,7 @@ The terminal is not a programming language but a command-line interface (CLI) us
 ---
 
 🏷️ About Contributors
+
 Interested contributors may submit ideas to ejp@krealix.de. Discussion and short lectures can be arranged at https://calendly.com/alexej-schelle/.
 
 ---
