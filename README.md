@@ -5,16 +5,19 @@ The Electronic Handbook of Data Science
 ---
 
 🧠 Overview
+
 The Electronic Handbook of Data Science is an electronic handbook reporting source codes in Data Science, supporting differently fine-tuned NLP models for expert and general readership. It enables readers to maintain proficiency in Modern Calculus and Data Science techniques.
 
 ---
 
 🔬 Core Topics
+
 The handbook includes scientific and practical coverage of modern tools and methods in Data Science, Programming, and AI.
 
 ---
 
 Web Development & Front-End
+
 🌐 HTML - Structure for web pages
 🎨 CSS - Styling & responsive design
 ⚡ AJAX - Dynamic content, asynchronous requests
@@ -24,6 +27,7 @@ Web Development & Front-End
 ---
 
 Programming & Software
+
 🐍 Python - Data science, AI, automation
 ☕ Java - Platform-independent, enterprise apps
 💻 C++ - High-performance systems & applications
@@ -40,6 +44,7 @@ Data Management & Databases
 ---
 
 Development & Productivity Tools
+
 🖥️ Linux / Terminal / Homebrew - System management & package control
 📂 Git - Version control & collaboration
 📝 Emacs - Highly customizable editor
@@ -48,12 +53,14 @@ Development & Productivity Tools
 ---
 
 AI & Machine Learning
+
 🧠 Deep Learning - Neural networks for vision, NLP, and speech
 🤖 Generative Models - GANs, Monte Carlo simulations, synthetic data generation
 
 ---
 
 📌 Key Features
+
 Open-source software & notebooks provided
 Covers algorithms, data structures, ML, programming languages
 Real-world applications & practical examples
@@ -62,11 +69,13 @@ Collaborative & peer-reviewed contributions
 ---
 
 Clone Repository
+
 git clone https://github.com/your-repo/electronic-handbook-ds.git
 
 ---
 
 Explore & Use
+
 Jupyter Notebook files for practical examples
 Source code in Python, Go, and other languages
 Fully compatible with Linux, macOS, and Windows
@@ -74,7 +83,10 @@ Fully compatible with Linux, macOS, and Windows
 ---
 
 🏷️ About Contributors
+
 Interested contributors may submit ideas to ejp@krealix.de. Discussion and short lectures can be arranged at https://calendly.com/alexej-schelle/.
+
+---
 
 The Electronic Handbook of Data Science in particular covers the following topics:
 
