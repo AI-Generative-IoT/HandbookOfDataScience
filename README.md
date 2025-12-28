@@ -72,10 +72,6 @@ Collaborative & peer-reviewed contributions
 
 ---
 
-The Electronic Handbook of Data Science in particular covers the following topics:
-
----
-
 ### Ajax
 AJAX (Asynchronous JavaScript and XML) is a web development technique used to create interactive and dynamic web applications. It allows web pages to update asynchronously by exchanging data with a server in the background without requiring a full page reload. AJAX typically uses JavaScript to send requests via the XMLHttpRequest object and processes responses, often in JSON or XML formats. It enhances user experience with faster interactions, powering features like live search, chat apps, and dynamic content loading.
 
