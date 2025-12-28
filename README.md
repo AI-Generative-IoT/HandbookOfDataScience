@@ -68,8 +68,6 @@ Collaborative & peer-reviewed contributions
 
 ---
 
----
-
 🏷️ About Contributors
 
 Interested contributors may submit ideas to ejp@krealix.de.
