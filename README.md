@@ -19,57 +19,57 @@ The handbook includes scientific and practical coverage of modern tools and meth
 Web Development & Front-End
 
 🌐 HTML - Structure for web pages  
-🎨 CSS - Styling & responsive design
-⚡ AJAX - Dynamic content, asynchronous requests
-🅱️ Bootstrap - Responsive, reusable web components
-📡 GraphQL - Efficient API queries
+🎨 CSS - Styling & responsive design  
+⚡ AJAX - Dynamic content, asynchronous requests  
+🅱️ Bootstrap - Responsive, reusable web components  
+📡 GraphQL - Efficient API queries  
 
 ---
 
 Programming & Software
 
-🐍 Python - Data science, AI, automation
-☕ Java - Platform-independent, enterprise apps
-💻 C++ - High-performance systems & applications
-🛠️ PHP / Laravel / Symfony - Web frameworks & server-side development
-📊 R / MATLAB / Scikit-Learn / TensorFlow - Statistical computing, ML, deep learning
+🐍 Python - Data science, AI, automation  
+☕ Java - Platform-independent, enterprise apps  
+💻 C++ - High-performance systems & applications  
+🛠️ PHP / Laravel / Symfony - Web frameworks & server-side development  
+📊 R / MATLAB / Scikit-Learn / TensorFlow - Statistical computing, ML, deep learning  
 
 ---
 
 Data Management & Databases
 
-🗄️ MySQL / PostgreSQL - Relational databases
-📄 MongoDB - NoSQL database, flexible schemas
-📦 JSON - Lightweight data interchange format
+🗄️ MySQL / PostgreSQL - Relational databases  
+📄 MongoDB - NoSQL database, flexible schemas  
+📦 JSON - Lightweight data interchange format  
 
 ---
 
 Development & Productivity Tools
 
-🖥️ Linux / Terminal / Homebrew - System management & package control
-📂 Git - Version control & collaboration
-📝 Emacs - Highly customizable editor
-🍓 Raspberry Pi - Hardware prototyping & IoT
+🖥️ Linux / Terminal / Homebrew - System management & package control  
+📂 Git - Version control & collaboration  
+📝 Emacs - Highly customizable editor  
+🍓 Raspberry Pi - Hardware prototyping & IoT  
 
 ---
 
 AI & Machine Learning
 
-🧠 Deep Learning - Neural networks for vision, NLP, and speech
-🤖 Generative Models - GANs, Monte Carlo simulations, synthetic data generation
+🧠 Deep Learning - Neural networks for vision, NLP, and speech  
+🤖 Generative Models - GANs, Monte Carlo simulations, synthetic data generation  
 
 ---
 
 📌 Key Features
 
-Open-source software & notebooks provided
-Covers algorithms, data structures, ML, programming languages
-Real-world applications & practical examples
-Collaborative & peer-reviewed contributions
+Open-source software & notebooks provided  
+Covers algorithms, data structures, ML, programming languages  
+Real-world applications & practical examples  
+Collaborative & peer-reviewed contributions  
 
 ---
 
-🏷️ Interested contributors may submit ideas to ejp@krealix.de.
+🏷️ Interested contributors may submit ideas to ejp@krealix.de.  
 
 ---
 
