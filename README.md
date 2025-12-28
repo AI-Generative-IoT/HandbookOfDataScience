@@ -90,8 +90,12 @@ Interested contributors may submit ideas to ejp@krealix.de. Discussion and short
 
 The Electronic Handbook of Data Science in particular covers the following topics:
 
+---
+
 ### Ajax
 AJAX (Asynchronous JavaScript and XML) is a web development technique used to create interactive and dynamic web applications. It allows web pages to update asynchronously by exchanging data with a server in the background without requiring a full page reload. AJAX typically uses JavaScript to send requests via the XMLHttpRequest object and processes responses, often in JSON or XML formats. It enhances user experience with faster interactions, powering features like live search, chat apps, and dynamic content loading.
+
+---
 
 ### Bootstrap
 Bootstrap is a popular open-source CSS framework designed to simplify web development. It provides pre-designed templates, responsive grid systems, and reusable components like buttons, forms, and navigation bars, enabling developers to create visually appealing and mobile-friendly websites quickly. Bootstrap uses HTML, CSS, and JavaScript and supports customization for unique designs. Its responsive design principles make websites adapt seamlessly to different screen sizes, making it ideal for modern web development.
