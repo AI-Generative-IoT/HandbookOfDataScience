@@ -18,7 +18,7 @@ The handbook includes scientific and practical coverage of modern tools and meth
 
 Web Development & Front-End
 
-🌐 HTML - Structure for web pages 
+🌐 HTML - Structure for web pages
 🎨 CSS - Styling & responsive design
 ⚡ AJAX - Dynamic content, asynchronous requests
 🅱️ Bootstrap - Responsive, reusable web components
