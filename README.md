@@ -68,23 +68,11 @@ Collaborative & peer-reviewed contributions
 
 ---
 
-Clone Repository
-
-git clone https://github.com/your-repo/electronic-handbook-ds.git
-
----
-
-Explore & Use
-
-Jupyter Notebook files for practical examples
-Source code in Python, Go, and other languages
-Fully compatible with Linux, macOS, and Windows
-
 ---
 
 🏷️ About Contributors
 
-Interested contributors may submit ideas to ejp@krealix.de. Discussion and short lectures can be arranged at https://calendly.com/alexej-schelle/.
+Interested contributors may submit ideas to ejp@krealix.de.
 
 ---
 
