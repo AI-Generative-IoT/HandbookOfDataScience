@@ -4,13 +4,13 @@ The Electronic Handbook of Data Science
 
 ---
 
-🧠 Overview
+Overview
 
 The Electronic Handbook of Data Science is an electronic handbook reporting source codes in Data Science, supporting differently fine-tuned NLP models for expert and general readership. It enables readers to maintain proficiency in Modern Calculus and Data Science techniques.
 
 ---
 
-🔬 Core Topics
+Core Topics
 
 The handbook includes scientific and practical coverage of modern tools and methods in Data Science, Programming, and AI.
 
@@ -37,6 +37,7 @@ Programming & Software
 ---
 
 Data Management & Databases
+
 🗄️ MySQL / PostgreSQL - Relational databases
 📄 MongoDB - NoSQL database, flexible schemas
 📦 JSON - Lightweight data interchange format
